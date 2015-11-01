@@ -32,7 +32,7 @@
   margin: 0px 5px !important;
 }
 }
-@media only screen and (max-width : 570px) {
+@media only screen and (max-width : 571px) {
 	.logo {
 		margin-left: 25px !important;
 	}
@@ -80,7 +80,7 @@
 		margin-left: 30px;
 	}
 } 
-@media only screen and (max-width : 360px) {
+@media only screen and (max-width : 362px) {
 		.logo {
 		margin-left: 5px !important;
 	}
